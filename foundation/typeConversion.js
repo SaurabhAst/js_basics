@@ -18,3 +18,6 @@ console.log(toBoolean);
 1 => true, 0 => flase
 "" => false, "hello" => true
 */ 
+
+/* the postfix increment increments the number but returns the previous value whereas the prefix
+increament (++x) increaments the value nd returns the value after incrementing */ 
